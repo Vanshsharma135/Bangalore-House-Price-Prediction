@@ -3,7 +3,7 @@ The Bangalore House Prediction Model is an open-source machine learning project 
 
 The model is developed using various regression algorithms, such as linear regression, decision trees, or gradient boosting, to leverage historical housing data. The dataset used for training comprises relevant features such as location, square footage, number of bedrooms and bathrooms, amenities, and proximity to essential facilities like schools, hospitals, and public transportation.
 
-   Model,                 Score,                RMSE
+       Model,                 Score,                RMSE
                     
 Linear Regression:-       0.790384,          64.898435
 
